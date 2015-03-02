@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>Hello Code Club</title>
+	<style type="text/css">
+	body{
+		padding-left: 20vw;
+		padding-right: 20vw;
+		background-color: #c8c8c8;
+		font-family: arial;
+	}
+	</style>
+</head>
+<body>
+<h1>Hello, Code Club!</h1>
+
+<hr/>
+
+<center><p>This is Adam's Code Club website.</p></center>
+<hr/>
+
+<div class="projects">
+	
+</div>
+
+</body>
+</html>
